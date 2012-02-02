@@ -1,0 +1,46 @@
+README
+
+For this game:
+
+THE CONTROLS:
+
+	In single player:
+		UP ARROW = thrust
+		LEFT ARROW = rotate ccw
+		RIGHT ARROW = rotate cw
+		SPACE = fire weapon
+		M = switch weapon
+
+		O = skip to next level
+		P = pause
+		I =	print stats
+
+	In multiplayer:
+		PLAYER 2 CONTROLS:
+			T = thrust
+			F = rotate ccw
+			H = rotate cw
+			W = fire weapon
+			Q = switch weapon
+
+INSTRUCTIONS:
+
+SINGLE PLAYER:
+	The first level is the hub level. In the hub level, you can see the high scores, go to multiplayer to start a new single player campeign.
+
+	To start a new Single player campeign, shoot all three grey disks to begin.
+	
+		The first Level you don't have any weapons, you must simply weave your way through the maze to teh end.
+		
+		The second level requires a bit more thinking. In this level you must guide your ship around the level, shooting the bricks away and trying to pick up blue experience bubbles. Then you must try and reach the vortex to complete the game. On completion, you will return to the hub to start a new adventure or play in the arena.
+
+		Whenever you complete a level, the game data is saved to a text file. The stats from this can be viewed with the show high scores button on teh hub level.
+
+MULTIPLAYER:
+	To start multiplayer, click on teh new challenger button. this will activate multiplayer mode and you will start in a specially tweaked level with an opponent. This opponent is controlled by another human player, to get your friends to play!
+
+	Both players have 3 lives and 10 health. if you crash, or get hit by a high density shell, then you will loose a point of health. A good strategy is to shoot with high density shells when your opponent is close and then switch to teh lighter shells when they are far away and try to push them into a wall or the floor or maybe even collapse bricks onto them. standard shells are much lighter and have a smaller impact on bricks but go further and are less effected by gravity. high density shells are much slower but have a much greater power and can take off health points directly.
+
+	When a player looses all three of their lives, the game will return to the hub where you can try again or do soemthing else.
+
+	Hitting a red bubble will make the game interesting, it will increase the ship speed and the firing speed of not only your ship but your opponents too, so be careful when you use this. 
